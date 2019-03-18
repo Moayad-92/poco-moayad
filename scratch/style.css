@@ -1,3 +1,14 @@
+    
+    p.Ubuntu{
+        font-family: 'Ubuntu', sans-serif;
+    }
+    h1.Bitter{
+        font-family: 'Bitter', serif;
+    }
+    
+    li.Share{
+        font-family: 'Share Tech Mono', monospace;
+    }
 p.warning {
     background-color: red ;
     color: white ;
