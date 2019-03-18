@@ -1,3 +1,16 @@
+p.warning {
+    background-color: red ;
+    color: white ;
+    font-style: bold;
+    padding: .5em 1em;
+    border-radius: 5px;
+    text-shadow: 1px 1px 1px black;
+}
+
+p.warning::before {
+  content: "WARNING!: "
+}
+
 p em {
    
     font-style: normal;
@@ -16,4 +29,8 @@ p {
     background-color: lightgrey ;
     margin-left: 1em ;
     margin-right: 1em ;
+}
+.important {
+    color: blue ;
+    font-weight:bold; 
 }
