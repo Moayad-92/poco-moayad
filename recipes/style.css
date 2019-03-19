@@ -1,0 +1,44 @@
+h1#header{
+    color: blue;
+    background-color: lightgrey;
+    font-family: serif;
+    font-size: 2em;
+    font-style: italic;
+    font-weight: bolder;
+    padding: .5em 1em;
+    margin-left: 50px;
+    margin-right: 650px;
+    border-style: initial;
+    border-color:blue;
+    border-radius: 15px;
+    text-shadow: 2px 2px 5px fuchsia;
+  
+}
+
+img#image{
+    width: 40%;
+    padding: 2em 3.5em ;
+    
+
+
+}
+
+.subheader{
+    color: blue;
+    font-family: sans-serif;
+    font-size: 1.5em;
+    font-weight: bold;
+    padding-left: 2em;
+    text-decoration: underline;
+    
+    
+}
+
+.text{
+    color: black;
+    font-family: monospace;
+    font-size: 1.30em;
+    font-style: normal;
+    padding-left: 1em;    
+    line-height: 1.5;
+}
